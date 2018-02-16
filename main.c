@@ -1,3 +1,6 @@
+//Name: Coleman Dill
+//UTeid: crd2634
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
