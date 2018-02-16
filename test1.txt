@@ -1,0 +1,8 @@
+7 5
+abc*h
+*t*be
+*h*el
+def*l
+a**no
+b****
+c*a**
